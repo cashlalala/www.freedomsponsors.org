@@ -32,3 +32,4 @@ Include
 Scripts
 node_modules
 env
+.metadata/
